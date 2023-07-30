@@ -1,0 +1,29 @@
+
+.words{
+    margin-top: 30px;
+    margin-left: 60px;
+    }
+    .word-1{
+      margin-left: 50px;
+    }
+    .word-2{
+        margin-left: 60px;
+        margin-top: 10px;
+        
+      }
+      .word-3{
+        font-size: 20px;
+        margin: 0 4px;
+      }
+      .img{
+        width:25% ;
+        height: 50px;
+        margin: 0 3px;
+      }
+     
+
+      @media (min-width:100px)and(max-width:800px) {
+      .footer{
+        display: none !important;
+        }
+      }
